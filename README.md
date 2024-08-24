@@ -9,4 +9,19 @@
 - 📫 How to reach me: khalidlazrag.contact@gmail.com
 
 ![views since 2023/06/14](https://visitor-badge-deno.deno.dev/sanotogii.sanotogii.svg)
+<hr>
+<h3 id="github-stats" align="center">📊 GitHub Stats:</h3>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sanotogii" alt="Profile Views">
+</p>
+<p align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=sanotogii&theme=dark&hide_border=true" alt="GitHub Streak">
+  </a>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanotogii&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
+</p>
+
+
                 
