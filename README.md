@@ -3,9 +3,12 @@
 ## Hi there 👋
 
 - 👾 I am a Software engineering student
-- 🌱 I’m currently learning full-stack development
-- ⚡ Fun fact: The term "software engineering" was first used in 1968 at a NATO conference to address the software crisis of the time.
-- 📫 How to reach me: khalidlazrag.contact@gmail.com
+- 🌱 Currently diving into full-stack development, focusing on React, Node.js, and MongoDB.
+- 🤝 I’m open to collaboration on interesting projects.
+- 📫 Feel free to reach out: khalidlazrag.contact@gmail.com
+
+
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-lazrag-91305423a/) | [Twitter](https://x.com/khalid__py)
 
 <hr>
 <h3 id="github-stats" align="center">📊 GitHub Stats:</h3>
@@ -20,6 +23,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanotogii&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
 </p>
-
-
-                
