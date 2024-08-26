@@ -9,7 +9,7 @@
 - 📫 Feel free to reach out: khalidlazrag.contact@gmail.com
 
 
-🔗 [LinkedIn](https://www.linkedin.com/in/khalid-lazrag-91305423a/) | [Twitter](https://x.com/khalid__py)
+🔗 [LinkedIn](https://www.linkedin.com/in/khalid-lazrag-91305423a/) | [X](https://x.com/khalid__py)
 
 <hr>
 <h3 id="github-stats" align="center">📊 GitHub Stats:</h3>
