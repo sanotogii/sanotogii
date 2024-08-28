@@ -3,7 +3,7 @@
 
 ## Hi there 👋
 
-- 👾 I am a Software engineering student
+- 👾 I am a Software engineering student at alx
 - 🌱 Currently diving into full-stack development, focusing on React, Node.js, and MongoDB.
 - 🤝 I’m open to collaboration on interesting projects.
 - 📫 Feel free to reach out: khalidlazrag.contact@gmail.com
