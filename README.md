@@ -1,11 +1,9 @@
-
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
-
+<!-- <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'> -->
+<img src="banner.png" alt="GitHub Banner" width="100%" />
 ## Hi there 👋
 
-- 👾 I am a Software engineering student at ALX
-- 🌱 Currently diving into full-stack development, focusing on React, Node.js, and MongoDB.
-- 🤝 I’m open to collaboration on interesting projects.
+- 👾 I am a Software engineering student at ALX / computer science student at UAE
+- 🌱 Currently Learning NextJS
 - 📫 Feel free to reach out: khalidlazrag.contact@gmail.com
 
 
@@ -17,7 +15,7 @@
   <img src="https://komarev.com/ghpvc/?username=sanotogii" alt="Profile Views">
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://streak-stats.demolab.com?user=sanotogii&theme=dark&hide_border=true" alt="GitHub Streak">
   </a>
@@ -25,61 +23,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanotogii&theme=dark&hide_border=false&layout=compact" alt="Top Languages">
-</p>
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
- 
+</p> -->
